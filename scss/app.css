@@ -1,0 +1,17 @@
+container {
+  background-color: lightgray;
+}
+
+h1 {
+  text-align: center;
+  padding: 10px;
+  background-color: darkgoldenrod;
+  margin-bottom: 40px;
+}
+
+.card {
+  height: 620px;
+}
+.card img {
+  height: 68%;
+}/*# sourceMappingURL=app.css.map */
